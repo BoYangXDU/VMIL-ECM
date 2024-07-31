@@ -1,4 +1,13 @@
-# Variational Multiple-Instance Learning with Embedding Correlation Modeling for Hyperspectral Target Detection
+<div align="center">
+  <h3 align="center"><strong>Variational Multiple-Instance Learning with Embedding Correlation Modeling <br> for Hyperspectral Target Detection </strong></h3>
+    <p align="center">
+    <a>Bo Yang</a><sup>1</sup>&nbsp;&nbsp;
+    <a>Changzhe Jiao</a><sup>1</sup>&nbsp;&nbsp;
+    <a>Jinjian Wu</a><sup>1</sup>&nbsp;&nbsp;
+    <a>Leida Li</a><sup>1</sup>&nbsp;&nbsp;
+    <br>
+    <sup>1</sup>Xidian University&nbsp;&nbsp;&nbsp;
+</div>
 
 This repository contains the code and resources for the paper "Variational Multiple-Instance Learning with Embedding Correlation Modeling for Hyperspectral Target Detection".
 
