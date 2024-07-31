@@ -9,6 +9,6 @@ This repository contains the code and resources for the paper "Variational Multi
 ## Contact
 For any questions or feedback, please reach out to the authors or open an issue in the repository.
 
-Email: bond.yang@outlook.com
+Email: bond.yang@outlook.com (Bo Yang)
 
 School of Artificial Intelligence, Xidian University
