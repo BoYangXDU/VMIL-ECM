@@ -6,7 +6,7 @@
     <a>Jinjian Wu</a><sup>1</sup>&nbsp;&nbsp;
     <a>Leida Li</a><sup>1</sup>&nbsp;&nbsp;
     <br>
-    <sup>1</sup>Xidian University&nbsp;&nbsp;&nbsp;
+    <sup>1</sup>School of Artificial Intelligence, Xidian University&nbsp;&nbsp;&nbsp;
 </div>
 
 This repository contains the code and resources for the paper "Variational Multiple-Instance Learning with Embedding Correlation Modeling for Hyperspectral Target Detection".
