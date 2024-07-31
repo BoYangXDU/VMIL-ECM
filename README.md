@@ -3,7 +3,7 @@
 This repository contains the code and resources for the paper "Variational Multiple-Instance Learning with Embedding Correlation Modeling for Hyperspectral Target Detection".
 
 ## Worklow
-![PDF Image](https://example.com/image.pdf](https://github.com/BoYangXDU/VMIL-ECM/blob/main/workflow.pdf)
+![PDF Image](https://github.com/BoYangXDU/VMIL-ECM/blob/main/workflow.pdf)
 
 
 ## Contact
