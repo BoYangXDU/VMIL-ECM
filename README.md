@@ -12,7 +12,7 @@ which relaxes the rigid target prior (e.g., target signatures and/or pixel-level
 1. Get the required hyperspectral data and save it in the `data/` directory.
 2. A specialist can box the area containing the target pixels as positive bags by visual observation or with reference to GPS coordinates, without considering the specific location of the targets within bags. The areas without any types of targets can be naturally divided into negative bags.
 3. Modify the data path to ensure the program can correctly read the data and labels.
-4. Run the `VMIL_run.py` script in the terminal, which will train the VMIL model.
+4. Run the [`VMIL_run.py`](https://github.com/BoYangXDU/VMIL-ECM/blob/main/VMIL_run.py) script in the terminal, which will train the VMIL model.
 
 ## Related data
 1. [Simulated data](https://github.com/GatorSense/Hyperspectral_Data_Simulation)
