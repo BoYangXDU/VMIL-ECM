@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center"><strong>Variational Multiple-Instance Learning with Embedding Correlation Modeling <br> for Hyperspectral Target Detection [Under Review] </strong></h3>
+  <h3 align="center"><strong>Variational Multiple-Instance Learning with Embedding Correlation Modeling <br> for Hyperspectral Target Detection  <br> [Under Review] </strong></h3>
     <p align="center">
     <a>Bo Yang</a><sup>1</sup>&nbsp;&nbsp;
     <a>Changzhe Jiao</a><sup>1</sup>&nbsp;&nbsp;
