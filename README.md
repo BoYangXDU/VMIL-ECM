@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center"><strong>Variational Multiple-Instance Learning with Embedding Correlation Modeling <br> for Hyperspectral Target Detection  <br> [TNNLS 2024 (In Press)] </strong></h3>
+  <h3 align="center"><strong>Variational Multiple-Instance Learning with Embedding Correlation Modeling <br> for Hyperspectral Target Detection  <br> [TNNLS 2024] </strong></h3>
     <p align="center">
     <a>Bo Yang</a><sup>1</sup>&nbsp;&nbsp;
     <a>Changzhe Jiao</a><sup>1</sup>&nbsp;&nbsp;
@@ -31,6 +31,7 @@ which relaxes the rigid target prior (e.g., target signatures and/or pixel-level
 ## Paper
 Please cite our paper if you find these datasets useful for your research.
 
+```
 @ARTICLE{10803098,
   author={Yang, Bo and Jiao, Changzhe and Wu, Jinjian and Li, Leida},
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
@@ -40,6 +41,7 @@ Please cite our paper if you find these datasets useful for your research.
   number={},
   pages={1-15},
   doi={10.1109/TNNLS.2024.3510385}}
+```
 
 ## Contact
 For any questions or feedback, please reach out to the authors or open an issue in the repository.
@@ -49,5 +51,5 @@ Email: bond.yang@outlook.com (Bo Yang)
 School of Artificial Intelligence, Xidian University
 
 ## Acknowledgement
-Thanks to the inspirations and codes from [EM-MIL](https://github.com/airmachine/EM-MIL-WeaklyActionDetection)
+Thanks to the inspirations and codes from [EM-MIL](https://github.com/airmachine/EM-MIL-WeaklyActionDetection).
 
