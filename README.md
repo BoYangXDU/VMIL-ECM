@@ -29,7 +29,7 @@ which relaxes the rigid target prior (e.g., target signatures and/or pixel-level
 3. [Avon](https://www.rit.edu/dirs/spectir-hyperspectral-airborne-2012)
 
 ## Paper
-Please cite our paper if you find these datasets useful for your research.
+Please cite our paper if you find our work and code useful for your research.
 
 ```
 @ARTICLE{10803098,
