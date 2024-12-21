@@ -28,9 +28,26 @@ which relaxes the rigid target prior (e.g., target signatures and/or pixel-level
 2. [MUULF Gulfport](https://github.com/GatorSense/MUUFLGulfport)
 3. [Avon](https://www.rit.edu/dirs/spectir-hyperspectral-airborne-2012)
 
+## Paper
+Please cite our paper if you find these datasets useful for your research.
+
+@ARTICLE{10803098,
+  author={Yang, Bo and Jiao, Changzhe and Wu, Jinjian and Li, Leida},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Variational Multiple-Instance Learning With Embedding Correlation Modeling for Hyperspectral Target Detection}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TNNLS.2024.3510385}}
+
 ## Contact
 For any questions or feedback, please reach out to the authors or open an issue in the repository.
 
 Email: bond.yang@outlook.com (Bo Yang)
 
 School of Artificial Intelligence, Xidian University
+
+## Acknowledgement
+Thanks to the inspirations and codes from [EM-MIL:](https://github.com/airmachine/EM-MIL-WeaklyActionDetection)
+
