@@ -49,5 +49,5 @@ Email: bond.yang@outlook.com (Bo Yang)
 School of Artificial Intelligence, Xidian University
 
 ## Acknowledgement
-Thanks to the inspirations and codes from [EM-MIL:](https://github.com/airmachine/EM-MIL-WeaklyActionDetection)
+Thanks to the inspirations and codes from [EM-MIL](https://github.com/airmachine/EM-MIL-WeaklyActionDetection)
 
