@@ -9,7 +9,7 @@
     <sup>1</sup>School of Artificial Intelligence, Xidian University&nbsp;&nbsp;&nbsp;
 </div>
 
-This repository contains the code and resources for the paper "Variational Multiple-Instance Learning with Embedding Correlation Modeling for Hyperspectral Target Detection".
+This repository contains the code and resources for the paper [Variational Multiple-Instance Learning with Embedding Correlation Modeling for Hyperspectral Target Detection](https://ieeexplore.ieee.org/abstract/document/10803098).
 
 ## Workflow
 ![Image](https://github.com/BoYangXDU/VMIL-ECM/blob/main/workflow.png)
