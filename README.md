@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center"><strong>Variational Multiple-Instance Learning with Embedding Correlation Modeling <br> for Hyperspectral Target Detection  <br> [TNNLS 2024] </strong></h3>
+  <h3 align="center"><strong>Variational Multiple-Instance Learning with Embedding Correlation Modeling <br> for Hyperspectral Target Detection  <br> [IEEE T-NNLS 2024] </strong></h3>
     <p align="center">
     <a>Bo Yang</a><sup>1</sup>&nbsp;&nbsp;
     <a>Changzhe Jiao</a><sup>1</sup>&nbsp;&nbsp;
@@ -9,7 +9,7 @@
     <sup>1</sup>School of Artificial Intelligence, Xidian University&nbsp;&nbsp;&nbsp;
 </div>
 
-This repository contains the code and resources for the paper [Variational Multiple-Instance Learning with Embedding Correlation Modeling for Hyperspectral Target Detection](https://ieeexplore.ieee.org/abstract/document/10803098).
+This repository contains the code and resources for the paper [Variational Multiple-Instance Learning with Embedding Correlation Modeling for Hyperspectral Target Detection](https://ieeexplore.ieee.org/abstract/document/10803098) published in IEEE Transactions on Neural Networks and Learning Systems (T-NNLS).
 
 ## Workflow
 ![Image](https://github.com/BoYangXDU/VMIL-ECM/blob/main/workflow.png)
