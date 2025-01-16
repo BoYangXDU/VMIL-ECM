@@ -42,6 +42,18 @@ Please cite our paper if you find our work and code useful for your research.
   pages={1-15},
   doi={10.1109/TNNLS.2024.3510385}}
 ```
+```
+@ARTICLE{10171432,
+  author={Yang, Bo and He, Yi and Jiao, Changzhe and Pan, Xiao and Wang, Guozhen and Wang, Lei and Wu, Jinjian},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Multiple-Instance Metric Learning Network for Hyperspectral Target Detection}, 
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-16},
+  doi={10.1109/TGRS.2023.3291439}}
+```
+
 
 ## Contact
 For any questions or feedback, please reach out to the authors or open an issue in the repository.
