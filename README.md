@@ -28,6 +28,9 @@ which relaxes the rigid target prior (e.g., target signatures and/or pixel-level
 2. [MUULF Gulfport](https://github.com/GatorSense/MUUFLGulfport)
 3. [Avon](https://www.rit.edu/dirs/spectir-hyperspectral-airborne-2012)
 
+## Evaluation
+[Bullwinkle](https://github.com/GatorSense/MUUFLGulfport/tree/master/MUUFLGulfportDataCollection/Bullwinkle)
+
 ## Paper
 Please cite our paper if you find our work and code useful for your research.
 
