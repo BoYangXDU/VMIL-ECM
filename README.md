@@ -25,7 +25,7 @@ which relaxes the rigid target prior (e.g., target signatures and/or pixel-level
 
 ## Related data
 1. [Simulated data](https://github.com/GatorSense/Hyperspectral_Data_Simulation)
-2. [MUULF Gulfport](https://github.com/GatorSense/MUUFLGulfport)
+2. [MUUFL Gulfport](https://github.com/GatorSense/MUUFLGulfport)
 3. [Avon](https://www.rit.edu/dirs/spectir-hyperspectral-airborne-2012)
 
 ## Evaluation
